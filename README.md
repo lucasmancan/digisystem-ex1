@@ -10,8 +10,8 @@ Host: localhost:8080
 Content-Type: application/json
 
 {
-"acao": "soma",
-"numeros": [5,4,3,2,1]
+ "acao": "subtrai",
+ "numeros": [5,4,3,2,1]
 }
 
 ```
